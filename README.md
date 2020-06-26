@@ -1,1 +1,1 @@
-# issues
+# Issues tracking repository
